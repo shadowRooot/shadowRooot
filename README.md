@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web components && React**
 
-- 👨‍💻 You can find me here too https://www.linkedin.com/in/osama-moussati/
+- 👨‍💻 You can find me on <a href="https://www.linkedin.com/in/osama-moussati"/>LinkedIn</a>
 
 
 
