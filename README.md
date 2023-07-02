@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Alvea
 
-- 🌱 I’m currently learning Clean Code & Arquitecture
+- 🌱 I’m currently learning Clean Code & TDD
 
 - 👨‍💻 You can find me on <a href="https://www.linkedin.com/in/osama-moussati" target="_blank"/>LinkedIn</a>
 
