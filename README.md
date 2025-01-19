@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Osama</h1>
-<h3 align="center">Frontend developer</h3>
+<h3 align="center">Software developer</h3>
 
 - 🔭 I’m currently working on Alvea
 
-- 🌱 I’m currently learning Clean Code & TDD
+- 🌱 I’m currently learning Software design && design patterns
 
 - 👨‍💻 You can find me on <a href="https://www.linkedin.com/in/osama-moussati" target="_blank"/>LinkedIn</a>
 
